@@ -28,10 +28,10 @@ ul {
 .wrapper > .dfn{
   color: #fff;
 }
-.home{
+mark{
   background-color: #719e07;
 }
 
-rel="external"{
+a: rel="external"{
   background-color: #2694d8;
 }
