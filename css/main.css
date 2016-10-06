@@ -9,7 +9,7 @@ ul {
   font-family: sans-serif;
 }
 .logo {
-  font-size: uppercase;
+  font: uppercase;
 }
 
 .wrapper {
@@ -20,7 +20,7 @@ ul {
   color: #93a1a1;
 }
 
-.wrapper > .dfn{
+.wrapper .dfn{
   background-color: #b58900;
 }
 
@@ -43,14 +43,14 @@ ol li:last-child{
   color: #2aa198;
 }
 
-.types> li:nth-child(odd){
+.types li:nth-child(odd){
   background-color: #657ba3;
 }
 
-.types> li:nth-child(even){
+.types li:nth-child(even){
   background-color: #586e75;
 }
 
-.types> li:nth-child(3){
+.types li:nth-child(3n){
   background-color: #d04b16;
 }
