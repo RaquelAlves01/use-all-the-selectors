@@ -53,3 +53,6 @@ ol> li:last-child{
   background-color: #586e75;
 }
 
+.types> li:nth-last-child(3){
+  background-color: #d04b16;
+}
