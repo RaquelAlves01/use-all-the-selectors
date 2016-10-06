@@ -9,11 +9,11 @@ ul {
   font-family: sans-serif;
 }
 .logo {
-  font: uppercase;
+  text-transform: uppercase;
 }
 
 .wrapper {
-  background-color:#eee8d5;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
