@@ -49,3 +49,7 @@ ol> li:last-child{
   background-color: #657ba3;
 }
 
+.types> li:nth-child(2){
+  background-color: #586e75;
+}
+
