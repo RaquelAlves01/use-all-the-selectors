@@ -8,3 +8,9 @@ header, footer {
 ul {
   font-family:sans-serif;
 }
+.logo
+  text-transform:uppercase;
+}
+.wrapper {
+
+}
