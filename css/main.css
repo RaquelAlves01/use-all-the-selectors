@@ -24,11 +24,10 @@ main> .dfn {
   background-color: #b58900;
 }
 
-.wrapper> .dfn strong {
+.wrapper> .dfn p strong {
   color: #fff;
 }
 
-}
 mark{
   background-color: #719e07;
 }
