@@ -17,16 +17,14 @@ ul {
 
 }
 
-#content {
+#content, #favs, #types {
   color: #93a1a1;
 }
 
-#favs{
-  color: #93a1a1;
+.wrapper> div> .dfn{
+  background-color: #b58900;
 }
 
-#types {
-  color: #93a1a1;
 }
 
 .wrapper> div> .dfn{
