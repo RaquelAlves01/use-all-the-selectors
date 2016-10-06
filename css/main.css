@@ -1,9 +1,9 @@
 body {
-  background-color:#fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header, footer {
-  font-size:1.5rem;
+  font-size: 1.5rem;
 }
 ul {
   font-family:sans-serif;
@@ -14,14 +14,13 @@ ul {
 
 .wrapper {
   background-color:#eee8d5;
-
 }
 
-#content, #favs, #types {
+#contents, #favs, #types {
   color: #93a1a1;
 }
 
-.wrapper> div> .dfn{
+.wrapper > .dfn{
   background-color: #b58900;
 }
 
@@ -32,11 +31,11 @@ mark{
   background-color: #719e07;
 }
 
-a: rel="external"{
+a[rel="external"]{
   background-color: #2694d8;
 }
 
-ol > li:first-child {
+ol> li:first-child {
   color: #719e47;
 }
 
