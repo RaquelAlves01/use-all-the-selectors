@@ -26,7 +26,11 @@ main > .dfn {
   background-color: #b58900;
 }
 
-.wrapper > .dfn strong {
+.dfn strong:nth-child(odd){
+  color: #000;
+}
+
+.fruits {
   color: #fff;
 }
 
