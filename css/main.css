@@ -30,7 +30,7 @@ main > .dfn {
   color: #000;
 }
 
-.fruits {
+.dfn strong:nth-child(even) {
   color: #fff;
 }
 
